@@ -1,3 +1,10 @@
+# Laravel auto-deployment with GitHub Actions
+Demo Laravel site to test auto-deployment with GitHub Actions. Installation can be removed when the script is complete.
+
+## References
+- [Laravel](https://laravel.com).
+
+## Original Laravel README
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
